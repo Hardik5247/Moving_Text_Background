@@ -1,0 +1,3 @@
+rootProject.name='Moving Text Background'
+include ':app'
+include ':mylibrary'
